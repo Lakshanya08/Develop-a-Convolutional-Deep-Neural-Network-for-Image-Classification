@@ -191,7 +191,7 @@ predict_image(model, image_index=5000,dataset=test_dataset)
 
 ```
 
-### OUTPUT
+## OUTPUT:
 
 ## Training Loss per Epoch
 <img width="391" height="202" alt="image" src="https://github.com/user-attachments/assets/9e8f96f2-64d2-494b-9237-ccf384ebed67" />
@@ -208,5 +208,5 @@ predict_image(model, image_index=5000,dataset=test_dataset)
 <img width="602" height="496" alt="image" src="https://github.com/user-attachments/assets/920858c4-f8b5-4b4a-a3d8-e4e1e1a3021e" />
 
 
-## RESULT
-Include your result here
+## RESULT:
+The Convolutional Neural Network (CNN) model was successfully trained and achieved good classification performance on the given image dataset. Include your result here.
