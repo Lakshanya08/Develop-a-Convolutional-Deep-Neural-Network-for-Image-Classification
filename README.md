@@ -10,6 +10,9 @@ The objective is to design and implement a CNN model using multiple layers such 
 
 The developed model should achieve high accuracy, effectively generalize to unseen data, and demonstrate the advantages of deep learning techniques in image classification tasks.
 
+## Neural Network Model
+<img width="959" height="433" alt="dp3 1 (2)" src="https://github.com/user-attachments/assets/ca98d4ce-65d5-42ab-b25a-f7c3f63eab61" />
+
 ## DESIGN STEPS
 ### STEP 1: 
 Import the required libraries (torch, torchvision, torch.nn, torch.optim) and load the image dataset with necessary preprocessing like normalization and transformation.
